@@ -1,0 +1,31 @@
+class,split,count
+Tomato___Bacterial_spot,test,319
+Tomato___Bacterial_spot,train,1489
+Tomato___Bacterial_spot,val,319
+Tomato___Early_blight,test,150
+Tomato___Early_blight,train,700
+Tomato___Early_blight,val,150
+Tomato___Late_blight,test,285
+Tomato___Late_blight,train,1328
+Tomato___Late_blight,val,285
+Tomato___Leaf_Mold,test,143
+Tomato___Leaf_Mold,train,666
+Tomato___Leaf_Mold,val,143
+Tomato___Septoria_leaf_spot,test,265
+Tomato___Septoria_leaf_spot,train,1239
+Tomato___Septoria_leaf_spot,val,266
+Tomato___Spider_mites Two-spotted_spider_mite,test,251
+Tomato___Spider_mites Two-spotted_spider_mite,train,1173
+Tomato___Spider_mites Two-spotted_spider_mite,val,251
+Tomato___Target_Spot,test,210
+Tomato___Target_Spot,train,983
+Tomato___Target_Spot,val,211
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,test,803
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,train,3750
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,val,804
+Tomato___Tomato_mosaic_virus,test,56
+Tomato___Tomato_mosaic_virus,train,260
+Tomato___Tomato_mosaic_virus,val,56
+Tomato___healthy,test,238
+Tomato___healthy,train,1114
+Tomato___healthy,val,239

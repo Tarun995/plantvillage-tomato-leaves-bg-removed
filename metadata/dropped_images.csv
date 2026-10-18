@@ -1,0 +1,15 @@
+class,split,filename
+Tomato___Late_blight,train,image (1097).JPG
+Tomato___Late_blight,train,image (1107).jpg
+Tomato___Late_blight,train,image (1356).jpg
+Tomato___Late_blight,train,image (140).JPG
+Tomato___Late_blight,train,image (1607).JPG
+Tomato___Late_blight,train,image (1760).jpg
+Tomato___Late_blight,train,image (1824).JPG
+Tomato___Late_blight,train,image (1837).JPG
+Tomato___Late_blight,train,image (26).JPG
+Tomato___Late_blight,train,image (728).JPG
+Tomato___Late_blight,test,image (1148).JPG
+Tomato___Septoria_leaf_spot,val,image (354).JPG
+Tomato___Spider_mites Two-spotted_spider_mite,train,image (505).JPG
+Tomato___Tomato_mosaic_virus,val,image (46).JPG

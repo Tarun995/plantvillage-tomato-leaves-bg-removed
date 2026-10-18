@@ -1,0 +1,6 @@
+Group-aware re-split
+embedding model: torchvision ResNet50 (IMAGENET1K_V2), avgpool features, views=1
+cosine similarity threshold: 0.94
+seed: 42
+target ratios: {'train': 0.7, 'val': 0.15, 'test': 0.15}
+near-duplicates searched within each class; groups = connected components

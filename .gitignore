@@ -1,0 +1,27 @@
+# data and model weights never go on GitHub
+data/
+work/
+*.pth
+*.pt
+*.npz
+*.zip
+processed/
+processed_v2/
+train/
+val/
+test/
+
+# third-party model code you download yourself (see models/README.md)
+src/u2net/
+
+# temporary outputs of the scripts
+preview_*.png
+analysis_sweep.csv
+duplicates_across_splits.csv
+md5_manifest.csv
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/

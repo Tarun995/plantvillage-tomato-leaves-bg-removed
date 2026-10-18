@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or the dataset it produces, please cite it as below, and also cite the original PlantVillage paper."
+title: "Tomato Leaf Disease Dataset: Preprocessing Pipeline (YOLO crop, U2-Net background removal, near-duplicate-aware split)"
+type: software
+authors:
+  - family-names: "Rai"
+    given-names: "Tarun"
+repository-code: "TODO_GITHUB_URL"
+url: "https://www.kaggle.com/datasets/tarunrai9/plantvillage-tomato-leaves-bg-removed"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-18"
+keywords:
+  - plant disease
+  - tomato
+  - image classification
+  - dataset
+  - near-duplicate detection
+references:
+  - type: article
+    title: "An open access repository of images on plant health to enable the development of mobile disease diagnostics"
+    authors:
+      - family-names: "Hughes"
+        given-names: "David P."
+      - family-names: "Salathe"
+        given-names: "Marcel"
+    year: 2015
+    url: "https://arxiv.org/abs/1511.08060"

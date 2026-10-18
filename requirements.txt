@@ -1,0 +1,12 @@
+# Install everything:  pip install -r requirements.txt
+# The near-duplicate step (src/dedup_resplit.py) only needs: torch, torchvision, numpy, scipy, pillow
+
+torch
+torchvision>=0.13
+numpy
+scipy
+pillow
+
+# needed by preprocess_dataset.py, u2net_remove_bg.py and examples/detect_leaf.py
+opencv-python
+ultralytics
