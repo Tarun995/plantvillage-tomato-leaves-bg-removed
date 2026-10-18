@@ -44,7 +44,7 @@ Helper scripts: `src/audit_counts.py` (counts per stage and the list of dropped 
 Python 3.9 or newer.
 
 ```bash
-git clone TODO_GITHUB_URL
+git clone https://github.com/Tarun995/plantvillage-tomato-leaves-bg-removed
 cd tomato-leaf-disease-preprocessed
 pip install -r requirements.txt
 ```

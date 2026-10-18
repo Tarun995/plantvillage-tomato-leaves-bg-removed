@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Rai"
     given-names: "Tarun"
-repository-code: "TODO_GITHUB_URL"
+repository-code: "https://github.com/Tarun995/plantvillage-tomato-leaves-bg-removed"
 url: "https://www.kaggle.com/datasets/tarunrai9/plantvillage-tomato-leaves-bg-removed"
 license: MIT
 version: "1.0.0"
