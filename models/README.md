@@ -19,9 +19,7 @@ Get the weights and the model code from the official repository: https://github.
 
 A YOLOv8n detector (single class: "leaf"), fine-tuned from COCO-pretrained weights on about 120 leaf images (256x256 px) annotated with bounding boxes in Roboflow (30 epochs, 640x640). The highest-confidence box is used to crop each leaf.
 
-TODO: add a download link for `best.pt` (for example a GitHub Release asset), or train your own: any YOLOv8 detector that finds a single leaf per PlantVillage image will work.
-
-You can also point the scripts at other weight files:
+The trained weights are not published. To reproduce the dataset, train your own single-class YOLOv8 leaf detector (any detector that finds one leaf per PlantVillage image will work) and save it as `models/best.pt`.
 
 ```bash
 python src/preprocess_dataset.py --input ... --output ... --yolo-weights path/to/best.pt --u2net-weights path/to/u2net.pth
